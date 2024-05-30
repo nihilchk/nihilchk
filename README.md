@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m back from a year-long career break and currently looking for work
+- 👯 I’m looking to collaborate on web applications as a fullstack developer.
+- 📫 How to reach me: https://buncha.foo
+- ⚡ Fun fact no. 1 ··· word "fool" in hindi is फूल which means "flower". 
+- ⚡ Fun fact no. 2 ··· My birthday falls on 1st April.
 
 <!--
 **nihilchk/nihilchk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
