@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m back from a year-long career break and currently looking for work
 - 👯 I’m looking to collaborate on web applications as a fullstack developer.
 - 📫 How to reach me: https://buncha.foo
 - ⚡ Fun fact no. 1 ··· word "fool" in hindi is फूल which means "flower". 
